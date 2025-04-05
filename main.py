@@ -2,6 +2,11 @@ import tkinter as tk
 from tkinter import messagebox
 import sqlite3
 
+
+#tarefa e: fazer uma segunda tela e nessa tela guardar suas anotaçoes por enquanto so isso!
+#cd c:\Users\mathe\Documents\projeto_simples
+
+
 class LoginApp:
     def __init__(self, root):
         self.root = root
