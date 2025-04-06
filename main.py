@@ -5,6 +5,7 @@ import sqlite3
 
 #tarefa e: fazer uma segunda tela e nessa tela guardar suas anotaçoes por enquanto so isso!
 #cd c:\Users\mathe\Documents\projeto_simples
+# sempre passar, cd c:\Users\mathe\Documents\projeto_simples
 
 
 class LoginApp:
